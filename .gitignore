@@ -22,3 +22,7 @@ logs
 .env
 .env.*
 !.env.example
+
+# Generated
+auto-imports.d.ts
+components.d.ts
