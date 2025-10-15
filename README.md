@@ -6,9 +6,15 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 Make sure to install dependencies:
 
+### Recommended utility
+
 ```bash
-# pnpm
-pnpm install
+npm install -g pnpm @antfu/ni
+```
+
+```bash
+# pnpm install
+ni
 ```
 
 ## Development Server
@@ -16,8 +22,8 @@ pnpm install
 Start the development server on `http://localhost:3000`:
 
 ```bash
-# pnpm
-pnpm dev
+# pnpm dev
+nr dev
 ```
 
 ## Production
@@ -25,15 +31,15 @@ pnpm dev
 Build the application for production:
 
 ```bash
-# pnpm
-pnpm build
+# pnpm build
+nr build
 ```
 
 Locally preview production build:
 
 ```bash
-# pnpm
-pnpm preview
+# pnpm preview
+nr preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
