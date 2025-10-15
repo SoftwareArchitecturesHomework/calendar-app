@@ -2,15 +2,15 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Setup
-
-Make sure to install dependencies:
-
-### Recommended utility
+## Recommended global utilities
 
 ```bash
 npm install -g pnpm @antfu/ni
 ```
+
+## Setup
+
+Make sure to install dependencies:
 
 ```bash
 # pnpm install
